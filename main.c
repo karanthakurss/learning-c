@@ -11,8 +11,14 @@ int main(){
 
     return 0;
 }
-
-int sum(int a, int b){
+/*
+@function sum
+@params int
+@return int
+jguhh
+*/
+int sum( a,  b){
     int total = a + b;
     return total;
 }
+
